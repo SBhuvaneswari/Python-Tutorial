@@ -6,7 +6,8 @@
 5. S.P. = [(100 + Gain%)/100] x C.P
 6. S.P. = [(100 - Loss%)/100] x C.P
 7. C.P. = [100/ (100 + Gain%) ] x S.P
-8. C.P. = [100/ (100 - Loss%) ] x S.P
+8. C.P. = [100/ (100 - Loss%) ] x S.P
+
 9. simple.Interest = PNR/100
 10. amount = p[1+(rt/100)]
 '''
